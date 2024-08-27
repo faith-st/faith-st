@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Vera Koneva and I'm Data Analyst
+### I'm Vera Koneva and I'm Data Analyst
 ### Languages and Tools:
 Python (pandas, seaborn, plotly, numpy, scipy), SQL (PosgreSQL), Tableau
